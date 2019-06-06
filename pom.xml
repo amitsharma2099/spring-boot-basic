@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.example</groupId>
-	<artifactId>project1</artifactId>
+	<artifactId>spring-boot-basic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>project1</name>
+	<name>spring-boot-basic</name>
 	<description>Demo project</description>
 	
 	<parent>
